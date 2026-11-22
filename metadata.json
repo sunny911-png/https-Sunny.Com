@@ -1,0 +1,6 @@
+{
+  "name": "World Soccer 2027",
+  "description": "Offline 3D 11v11 Android football game with Quick Match, Tournament, Career, and Training modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

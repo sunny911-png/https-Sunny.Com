@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">World Soccer 2027</string>
+    <string name="subtitle_offline_edition">OFFLINE 3D FOOTBALL ENGINE</string>
+    <string name="menu_play_match">Play Match</string>
+    <string name="menu_tournament">Tournament</string>
+    <string name="menu_career">Career Mode</string>
+    <string name="menu_training">Training Mode</string>
+    <string name="menu_team_selection">Team &amp; Tactics</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_exit">Exit</string>
+</resources>
